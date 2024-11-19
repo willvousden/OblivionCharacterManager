@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="OblivionCharacterManager.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UpdateCheckUri" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://etherea.co.uk/projects/ocm/ocminfo.php</Value>
+    </Setting>
+    <Setting Name="RootSaveDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Saves</Value>
+    </Setting>
+    <Setting Name="ActiveCharacterName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="OblivionInstallPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="OblivionLaunchCommandLine" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SaveListSorter" Type="OblivionCharacterManager.SaveListSorter" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ShowSavesInGroups" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CheckUpdatesOnStartup" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LoadObseOnOblivionLaunch" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UpdateTimeout" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5000</Value>
+    </Setting>
+    <Setting Name="FormSettings" Type="FormsLibrary.FormSettings" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CharactersFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Characters.dat</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
